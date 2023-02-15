@@ -37,7 +37,7 @@ function App() {
         type='text'
         value={prompt}
         onChange={(e) => setPrompt (e.target.value)}
-        placeholder="Write your prompt.." 
+        placeholder="Write your question.." 
         className="textarea">
 
         </textarea>
